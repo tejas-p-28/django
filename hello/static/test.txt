@@ -1,0 +1,1 @@
+this the test for the static folder
